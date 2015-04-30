@@ -1,0 +1,5 @@
+C:\Users\Brando\Documents\GitHub\TestAPP REAL\TestAPP REAL\bin\Debug\TestAPP REAL.exe.config
+C:\Users\Brando\Documents\GitHub\TestAPP REAL\TestAPP REAL\bin\Debug\TestAPP REAL.exe
+C:\Users\Brando\Documents\GitHub\TestAPP REAL\TestAPP REAL\bin\Debug\TestAPP REAL.pdb
+C:\Users\Brando\Documents\GitHub\TestAPP REAL\TestAPP REAL\obj\Debug\TestAPP REAL.exe
+C:\Users\Brando\Documents\GitHub\TestAPP REAL\TestAPP REAL\obj\Debug\TestAPP REAL.pdb
